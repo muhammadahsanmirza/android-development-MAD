@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Rollno" type="id" />
+    <item name="Name" type="id" />
+    <item name="Marks" type="id" />
+    <item name="Insert" type="id" />
+    <item name="Delete" type="id" />
+    <item name="Update" type="id" />
+    <item name="View" type="id" />
+    <item name="ViewAll" type="id" />
+</resources>
